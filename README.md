@@ -1,2 +1,2 @@
 # cuisines-on-the-go-master
-Berisi Program prototipe
+Berisi Program prototipe dari aplikasi delivery makanan
