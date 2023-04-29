@@ -1,2 +1,4 @@
 # cuisines-on-the-go-master
-Berisi Program prototipe dari aplikasi delivery makanan
+Berisi Program prototipe dari aplikasi *delivery* makanan
+
+**_Prototype_ Aplikasi _Delivery_ Makanan sebagai _Part-time_ Mahasiswa Menggunakan Metode _Waterfall_**
